@@ -21,5 +21,5 @@
     <listAttribute key="tasks">
         <listEntry value="run"/>
     </listAttribute>
-    <stringAttribute key="working_dir" value="${workspace_loc:/kcg_jad_MemoFXML}"/>
+    <stringAttribute key="working_dir" value="${workspace_loc:/klp_jad_MemoFXML}"/>
 </launchConfiguration>
